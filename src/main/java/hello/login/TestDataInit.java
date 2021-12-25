@@ -32,7 +32,6 @@ public class TestDataInit {
         member1.setPassword("test!");
 
         memberRepository.save(member1);
-
     }
 
 }
